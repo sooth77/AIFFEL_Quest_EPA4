@@ -11,6 +11,10 @@
           <img width="600" height="561" alt="스크린샷 2026-09-21 오전 11 15 44" src="https://github.com/user-attachments/assets/968d4488-9f93-486a-964c-8dc8a5a34898" />
 
          모델을 직접 시각화해서 볼 수 있었습니다.
+
+          <img width="359" height="102" alt="스크린샷 2026-09-21 오전 11 25 07" src="https://github.com/user-attachments/assets/0720ee70-fce6-461b-af77-b35291daad6c" />
+          
+        accuracy도 0.90이 넘었고, bucketing 전 후를 비교할 수 잇습니다. 
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -53,7 +57,7 @@
         <img width="273" height="296" alt="스크린샷 2026-09-21 오전 11 21 44" src="https://github.com/user-attachments/assets/c3fe3d98-635d-408c-9166-33f654d2ec9e" />
 
 # 회고(참고 링크 및 코드 개선)
-```
+
 step에 맞게 과정들을 차근히 잘 진행하였습니다.
 
-```
+
